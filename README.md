@@ -1,4 +1,4 @@
-# Computer Graphics Homework
+# FLYLIKEB.github.io
 
 CAS3205.01-00 Computer Graphics 과제 제출 페이지
 
